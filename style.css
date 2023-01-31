@@ -4,12 +4,12 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-body{
+body{ 
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url(eueu.jpg);
+    background-image: url(8.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
   
@@ -17,7 +17,7 @@ body{
 }
 h1 {
 
-text-shadow:  2px 2px 2px rgb(192, 101, 147);
+text-shadow:  2px 2px 2px rgb(255, 0, 0);
 }
 
  div {
@@ -25,10 +25,12 @@ text-shadow:  2px 2px 2px rgb(192, 101, 147);
     flex-direction: column;
     justify-content: center;
     align-items: center;
- color:white
+    color:white
 
  }
   img {
     border-radius: 50%;
+  
     
   }
+  
